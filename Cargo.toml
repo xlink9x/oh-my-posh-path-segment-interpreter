@@ -1,0 +1,11 @@
+[package]
+name = "oh-my-posh-path-segment-interpreter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+clap = { version = "4.5.9", features = ["derive"] }
+homedir = "0.3.3"
+once_cell = "1.19.0"
+term_size = "0.3.2"
