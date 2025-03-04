@@ -17,7 +17,7 @@ A Rust-based utility to shorten the Oh My Posh path segment, inspired by Powerle
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/oh-my-posh-path-segment-interpreter.git
+   git clone https://github.com/xlink9x/oh-my-posh-path-segment-interpreter.git
    cd oh-my-posh-path-segment-interpreter
    ```
 
